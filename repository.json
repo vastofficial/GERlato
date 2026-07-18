@@ -3,9 +3,9 @@
         "category": "General",
         "description": "Stream external media.\n",
         "guid": "94EA4E14-8163-4989-96FE-0A2094BC2D6A",
-        "name": "Gerlato",
+        "name": "GERlato",
         "overview": "Stream external media.",
-        "owner": "YOURUSER",
+        "owner": "vastofficial",
         "versions": [
             {
                 "changelog": "Repackaged build of Gelato v0.26.15.1 (GPL-3.0, original by lostb1t: https://github.com/lostb1t/Gelato)\n",
