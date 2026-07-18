@@ -1,0 +1,20 @@
+[
+    {
+        "category": "General",
+        "description": "Stream external media.\n",
+        "guid": "94EA4E14-8163-4989-96FE-0A2094BC2D6A",
+        "name": "Gerlato",
+        "overview": "Stream external media.",
+        "owner": "YOURUSER",
+        "versions": [
+            {
+                "changelog": "Repackaged build of Gelato v0.26.15.1 (GPL-3.0, original by lostb1t: https://github.com/lostb1t/Gelato)\n",
+                "checksum": "de3ae7d02f4abf15d17ea8e93147f101",
+                "sourceUrl": "https://github.com/YOURUSER/Gerlato/releases/download/v0.26.15.1/gerlato_0.26.15.1.zip",
+                "targetAbi": "10.11.6.0",
+                "timestamp": "2026-05-18T07:35:19Z",
+                "version": "0.26.15.1"
+            }
+        ]
+    }
+]
