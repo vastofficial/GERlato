@@ -26,7 +26,7 @@ This repository redistributes the official upstream release binaries under a sep
 1. In Jellyfin, go to **Dashboard → Plugins → Repositories → Add** and enter:
 
    ```
-   https://raw.githubusercontent.com/YOURUSER/Gerlato/main/repository.json
+   https://raw.githubusercontent.com/vastofficial/Gerlato/main/repository.json
    ```
 
 2. Go to **Catalog → General → Gerlato → Install**, then restart Jellyfin.
